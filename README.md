@@ -4,10 +4,11 @@ Currently working as a full-stack developer at <a href="https://www.adstate.com/
 
 ## Work experience
 
-|Adstate|Datahjelpen|Optimale Systemer|
+|Time|Company|Position
 :--- | :--- | :---
-|Full-stack developer|CEO, developer & designer|Developer|
-|2020 ⟶ present|2016 ⟶ present|2014 ⟶ 2016|
+|2020 ⟶ present|Adstate|Full-stack developer|
+|2016 ⟶ present|Datahjelpen|CEO, developer & designer|
+|2014 ⟶ 2016|Optimale Systemer|Developer|
 
 ## Devloper experience
 
