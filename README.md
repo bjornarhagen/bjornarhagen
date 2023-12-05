@@ -1,4 +1,4 @@
-# Hello 👋 I'm Bjørnar Hagen, software engineer.
+# Hello 👋 I'm Bjørnar Hagen, computer engineer.
 
 Currently working as a full-stack developer at <a href="https://www.adstate.com/">Adstate</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
