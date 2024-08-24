@@ -1,12 +1,13 @@
 # Hello 👋 I'm Bjørnar Hagen, computer engineer.
 
-Currently working as a full-stack developer at <a href="https://www.adstate.com/">Adstate</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Currently working as a full-stack developer at <a href="https://riversecurity.eu">River Security</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## Work experience
 
 |Time|Company|Position
 :--- | :--- | :---
-|2020 ⟶ present|Adstate|Full-stack developer|
+|2024 ⟶ Present|River Security|Full-stack developer|
+|2020 ⟶ 2024|Adstate / Legatech / Rapid Data|Full-stack developer|
 |2016 ⟶ present|Datahjelpen|CEO, developer & designer|
 |2014 ⟶ 2016|Optimale Systemer|Developer|
 
