@@ -1,12 +1,13 @@
 # Hello 👋 I'm Bjørnar Hagen, computer engineer.
 
-Currently working as a full-stack developer at <a href="https://riversecurity.eu">River Security</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Currently working as IT manager at <a href="https://gokstadakademiet.no/">Gokstad Akademiet</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## Work experience
 
 |Time|Company|Position
 :--- | :--- | :---
-|2024 ⟶ Present|River Security|Full-stack developer|
+|2025 ⟶ Present|Gokstad Akademiet|IT manager|
+|2024 ⟶ 2025|River Security|Full-stack developer|
 |2020 ⟶ 2024|Adstate / Legatech / Rapid Data|Full-stack developer|
 |2016 ⟶ present|Datahjelpen|CEO, developer & designer|
 |2014 ⟶ 2016|Optimale Systemer|Developer|
@@ -27,7 +28,7 @@ Currently working as a full-stack developer at <a href="https://riversecurity.eu
 ![Helm](https://img.shields.io/badge/Helm-orange?logo=helm&logoColor=white&labelColor=black)
 
 ![OS](https://img.shields.io/badge/OS-MacOS-orange?logo=apple&logoColor=white&labelColor=black)
-![IDE](https://img.shields.io/badge/Editor-NeoVim-orange?logo=neovim&logoColor=white&labelColor=black)
+![IDE](https://img.shields.io/badge/Editor-Cursor-orange?logo=cursor&logoColor=white&labelColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-urxvt-orange?logo=windowsterminal&logoColor=white&labelColor=black)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Tool-Photoshop-orange?logo=adobephotoshop&logoColor=white&labelColor=black)
